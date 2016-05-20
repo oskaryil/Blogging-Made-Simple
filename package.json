@@ -1,0 +1,28 @@
+{
+  "name": "blogging-made-simple",
+  "version": "1.0.0",
+  "description": "A simple blogging system built on node and express",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.5",
+    "mysql": "^2.10.2",
+    "pug": "^2.0.0-alpha7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(git://github.com/oskaryil/bloggingmadesimple.git)"
+  },
+  "keywords": [
+    "blogging"
+  ],
+  "author": "Oskar Yildiz",
+  "license": "ISC"
+}
