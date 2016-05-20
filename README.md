@@ -9,7 +9,7 @@ The following columns in the table:
 - content TEXT
 - date CURRENT_TIMESTAMP
 - id AUTO_INCREMENT
-- 
+
 Edit db.js with your MySQL info.
 
 This is not a final build.
